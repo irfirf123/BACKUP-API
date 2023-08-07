@@ -1,0 +1,10 @@
+C:\Users\Home\Desktop\Roblox-Exploit-API-main\src\Hovac_API\bin\x86\Debug\Hovac_API.dll
+C:\Users\Home\Desktop\Roblox-Exploit-API-main\src\Hovac_API\bin\x86\Debug\Hovac_API.pdb
+C:\Users\Home\Desktop\Roblox-Exploit-API-main\src\Hovac_API\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Home\Desktop\Roblox-Exploit-API-main\src\Hovac_API\bin\x86\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Home\Desktop\Roblox-Exploit-API-main\src\Hovac_API\obj\x86\Debug\Hovac_API.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Roblox-Exploit-API-main\src\Hovac_API\obj\x86\Debug\Hovac_API.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Roblox-Exploit-API-main\src\Hovac_API\obj\x86\Debug\Hovac_API.csproj.Fody.CopyLocal.cache
+C:\Users\Home\Desktop\Roblox-Exploit-API-main\src\Hovac_API\obj\x86\Debug\Hovac_API.csproj.CopyComplete
+C:\Users\Home\Desktop\Roblox-Exploit-API-main\src\Hovac_API\obj\x86\Debug\Hovac_API.dll
+C:\Users\Home\Desktop\Roblox-Exploit-API-main\src\Hovac_API\obj\x86\Debug\Hovac_API.pdb
